@@ -273,7 +273,7 @@ background-position: right 56px top 96px, right 56px bottom 48px;
     .hero {
         min-height: 650px;
         padding-block: 147px 100px;
-        background-image: url("./images/hero-mobile-decor.svg");
+        background-image: url("./images/hero-mobile-decor.svg?v=2");
         background-position: center top;
         background-size: 100% 100%;
         text-align: center;
